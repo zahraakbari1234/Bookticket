@@ -1,6 +1,6 @@
 # booktickets
 
-A new Flutter project.
+full app with all features.
 
 ## Getting Started
 
